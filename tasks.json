@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "description": "Prepare presentation slides",
+        "status": "in progress"
+    },
+    {
+        "id": 2,
+        "description": "Submit the project proposal",
+        "status": "done"
+    },
+    {
+        "id": 3,
+        "description": "Schedule a team meeting",
+        "status": "not done"
+    },
+    {
+        "id": 4,
+        "description": "Update the project documentation",
+        "status": "done"
+    },
+    {
+        "id": 5,
+        "description": "Finish the report",
+        "status": "not done"
+    },
+    {
+        "id": 6,
+        "description": " Finish the presentation",
+        "status": "not done"
+    }
+]
