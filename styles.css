@@ -1,0 +1,69 @@
+/* Reset some default styling */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Center the main container */
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+}
+
+/* Style the main container */
+div {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for labels */
+label {
+    font-weight: bold;
+}
+
+/* Style for input fields and select elements */
+input[type="number"], select {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Style for the Convert button */
+button {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 0%;
+    position: absolute;
+
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #218838;
+
+}
+
+/* Result section */
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+#result {
+    font-weight: bold;
+    color: #007bff;
+}
